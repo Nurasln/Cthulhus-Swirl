@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 417a9cd6f211427428d89c0af3f3758e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - SFXSource: {instanceID: 0}
+  - background: {instanceID: 0}
+  - death: {instanceID: 0}
+  - checkpoint: {instanceID: 0}
+  - enemySound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
